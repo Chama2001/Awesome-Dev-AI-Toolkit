@@ -9,7 +9,6 @@ First, install the required PyTorch and Transformers libraries:
 pip install transformers torch
 
 ```
-
 from transformers import pipeline
 
 # Load the text generation pipeline
