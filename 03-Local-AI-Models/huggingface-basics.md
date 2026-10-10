@@ -7,8 +7,12 @@ First, install the required PyTorch and Transformers libraries:
 
 ```bash
 pip install transformers torch
-
 ```
+
+## 2. Local Text Generation Pipeline
+Here is how to load and use a lightweight model (like GPT-2 or a tiny Llama variant) completely offline:
+
+```python
 from transformers import pipeline
 
 # Load the text generation pipeline
@@ -20,3 +24,4 @@ prompt = "Artificial Intelligence is transforming software engineering by"
 result = generator(prompt, max_length=50, num_return_sequences=1)
 
 print(result[0]['generated_text'])
+```
