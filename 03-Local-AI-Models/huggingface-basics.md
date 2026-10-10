@@ -8,7 +8,7 @@ First, install the required PyTorch and Transformers libraries:
 ```bash
 pip install transformers torch
 
-
+##
 
 from transformers import pipeline
 
