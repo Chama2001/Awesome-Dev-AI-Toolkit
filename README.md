@@ -1,6 +1,3 @@
-# Awesome-Dev-AI-Toolkit
-A curated collection of AI prompts, code snippets, and development tools.
-
 # 📦 Awesome-Dev-AI-Toolkit
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
