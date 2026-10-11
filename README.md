@@ -56,3 +56,13 @@ A collection of developer benefits, including guides to earning GitHub badges, t
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Chama2001/Awesome-Dev-AI-Toolkit.git](https://github.com/Chama2001/Awesome-Dev-AI-Toolkit.git)
+
+## 📚 Multimedia & Video Guides
+
+We believe in making AI education accessible. Alongside the code in this repository, we are building multimedia resources to help you step-by-step:
+
+* 📖 **Digital Guides:** Check out our upcoming digital guides (like *Microsoft Copilot for Beginners*) for comprehensive walkthroughs.
+* 🎥 **YouTube Tutorials:** (Coming Soon) A complete video series demonstrating how to set up local LLMs, create Grad-CAM visualizations, and deploy on Azure. 
+* 🌍 **Community Tech Talks:** Join our local tech community events where we present live demos of these architectures.
+
+> **Note:** Links will be updated here as soon as the media is published!
